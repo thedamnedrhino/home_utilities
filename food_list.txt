@@ -1,0 +1,21 @@
+name, prot/unit, price/unit
+
+Beef, 20/100-gr, 20/1-kg
+Beef, 20/100-gr, 24/1-kg
+
+Chicken, 20/100-gr, 14/1-kg
+Chicken, 20/100-gr, 24/1-kg
+
+Smoked Salmon, 90/1-Pack, 10/1-pack
+
+Tuna, 30/100-gr
+
+Eggs, 6/1-each, 6/12-each
+Eggs, 6/1-each, 15/30-each
+
+Mushrooms, 3/100-gr, 3/1-lb
+
+Broccoli, 2.5/100-gr, 3/1-lb
+
+Beans, 13/1-can, 3/1-can
+Beans, 4/125-ml
